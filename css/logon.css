@@ -1,0 +1,125 @@
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
+.header{
+    height: 82px;
+    /* border-bottom: 2px solid #b1191a; */
+}
+.logo{
+    padding-top: 15px;
+}
+
+
+
+.registerarea{
+    position: relative;
+    height: 485px;
+    background-color: #9900FF;
+    background: url(../upload/logoin.jpg) no-repeat;
+    margin: 20px 0 100px 0;
+}
+.dengluk{
+    float: right;
+    position: relative;
+    width: 380px;
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;		
+}
+.dltit{
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 18px;
+    
+}
+.dltit em{
+    float: right;
+    text-align: right;
+    color: #CC0033;
+}
+.dltit span{   
+    border-right: 1px solid rgba(0, 0, 0, 0.3);
+}
+.dltit i{
+    float: left;
+}
+.dlts{
+    height: 26px;
+    background-color:#fffdee;
+    line-height: 26px;
+    padding-left: 15px;
+    border: 1px solid #f5eecf;
+    font-size: 12px;
+    color: #666;
+    margin: 20px 0 ;
+}
+.dlyhm{
+    height: 34px;
+    border: 1px solid #3399CC;
+    
+}
+.dlyhm input,
+.dlymm input{
+    color: #ccc;
+    border: 0;
+    width: 327px;
+    height: 30px;
+    padding: 0 0 0 10px;
+}
+.dlymm{
+    height: 34px;
+    border: 1px solid #ccc;
+    margin: 20px 0;
+}
+.dlyxz{
+    height: 34px;
+    line-height: 34px;
+    font-size: 14px;
+    color: #777;
+}
+.dlyxz input{
+    vertical-align: middle;
+}
+.dlyxz a{
+    float: right;
+    font-size: 14px;
+}
+.dlydlan input{
+    height: 34px;
+    width: 100%;
+    line-height: 34px;
+    background-color: #CC0033;
+    color: #fff;
+    margin: 20px 0 10px 0;
+    font-size: 14px;
+    border: 0;
+}
+.dlydltutu{
+    height: 34px;
+    margin-top: 32px;
+}
+.dlydltutu a{
+    float: left;
+    color: #006699;
+    margin-right: 10px;
+    font-size: 16px;
+}
+.dlydltutu .youa{
+    float: right;
+}
+
+
+
+.footer{
+    height: 120px;
+    text-align: center;
+}
+.links{
+    height: 30px;
+    margin-top: 20px;
+}
+.s{
+    line-height: 20px;
+}
